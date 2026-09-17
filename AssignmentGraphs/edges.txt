@@ -1,0 +1,13 @@
+Dallas,Austin,98
+Austin,Houston,95
+Dallas,Houston,101
+Austin,Chicago,144
+Chicago,Austin,155
+Austin,Dallas,100
+Houston,Dallas,100
+Austin, San Antonio,75
+New York, Dallas, 255
+Dallas, Honolulu, 510
+Honolulu, Fiji, 420
+Fiji, Sydney, 280
+Sydney, Kuala Lumpur, 520

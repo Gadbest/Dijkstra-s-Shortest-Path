@@ -1,0 +1,10 @@
+Dallas, Houston
+Houston, Dallas
+Dallas, Austin
+Austin, Dallas
+Chicago, Dallas
+Dallas, Chicago
+Austin, San Antonio
+New York, Kuala Lumpur
+Dallas, Amarillo
+San Antonio, Chicago

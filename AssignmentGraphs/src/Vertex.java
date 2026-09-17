@@ -1,0 +1,1 @@
+record Vertex(String vertex) {}
